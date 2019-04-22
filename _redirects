@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://www.defiantred.com/* https://www.thedefiantred.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://thedefiantred.netlify.com/* https://www.thedefiantred.com/:splat 301!
