@@ -6,8 +6,8 @@ for(var i=0; i<checkoutButtons.length; i++) {
   checkoutButton.addEventListener('click', function () {
     stripe.redirectToCheckout({
       items: [{sku: checkoutButton.value, quantity: 1}],
-      successUrl: 'https://www.thedefiantred.com/success',
-      cancelUrl: 'https://www.thedefiantred.com/canceled',
+      successUrl: 'https://www.thedefiantred.com/#stripe-success',
+      cancelUrl: 'https://www.thedefiantred.com/#stripe-canceled',
     })
     .then(function (result) {
       if (result.error) {

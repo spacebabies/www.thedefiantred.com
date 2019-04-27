@@ -99,7 +99,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #f62040;
+  color: #4F000B;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -259,7 +259,7 @@ blockquote:before {
   line-height: 0px;
   margin: 0;
   color: #c2c2c2;
-  color: #f62040;
+  color: #4F000B;
   font-family: Arial, Sans-serif;
   position: absolute;
   top: 4.4rem;
@@ -409,7 +409,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #f62040;
+  background: #4F000B;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -418,7 +418,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #f62040;
+  color: #4F000B;
 }
 
 dd {
@@ -544,7 +544,7 @@ form,
 
 .pace .pace-progress {
   z-index: 900;
-  background: #f62040;
+  background: #4F000B;
   width: 100%;
   height: 4px;
   position: fixed;
@@ -595,7 +595,7 @@ form,
 
 #loader > div {
   content: "";
-  background: #f62040;
+  background: #4F000B;
   width: 6px;
   height: 6px;
   position: absolute;
@@ -858,7 +858,7 @@ textarea:focus,
 select:focus {
   color: #000000;
   box-shadow: 0 0 5px rgba(91, 79, 150, 0.8);
-  border: 1px solid #f62040;
+  border: 1px solid #4F000B;
 }
 
 label,
@@ -951,7 +951,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #f62040;
+  -webkit-text-fill-color: #4F000B;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -1011,8 +1011,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #f62040;
-  border-color: #f62040;
+  background: #ce4257;
+  border-color: #ce4257;
   color: #ffffff;
 }
 
@@ -1026,8 +1026,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-  background: #514686;
-  border-color: #514686;
+  background: #FF9B54;
+  border-color: #FF9B54;
 }
 
 /* button modifiers
@@ -1221,7 +1221,7 @@ input::-moz-focus-inner {
   position: absolute;
   font-size: 10rem;
   font-family: Arial, Sans-serif;
-  color: #f62040;
+  color: #4F000B;
 }
 
 .pull-quote:before {
@@ -1297,7 +1297,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #f62040;
+  color: #4F000B;
 }
 
 .stats-tabs li a em {
@@ -1343,7 +1343,7 @@ input::-moz-focus-inner {
 }
 
 .skill-bars li .progress {
-  background: #f62040;
+  background: #4F000B;
   position: relative;
   height: 100%;
 }
@@ -1589,7 +1589,7 @@ input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-  background: #f62040;
+  background: #4F000B;
 }
 
 
@@ -2108,7 +2108,7 @@ input::-moz-focus-inner {
   content: "";
   height: 2px;
   width: 8rem;
-  background-color: #f62040;
+  background-color: #4F000B;
   position: absolute;
   left: 8px;
   top: 0;
@@ -2224,7 +2224,7 @@ input::-moz-focus-inner {
   line-height: 5.6rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
-  color: #f62040;
+  color: #4F000B;
   border-bottom: 1px solid transparent;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -2646,7 +2646,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 23.2rem;
   padding-bottom: calc((62.4rem/2) + 6.4rem);
-  background-color: #f62040;
+  background-color: #4f000b;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
   position: relative;
@@ -2831,7 +2831,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .btn-video:hover .video-icon {
-  background-color: #f62040;
+  background-color: #4F000B;
   background-image: url(../images/icons/icon-play.svg);
 }
 
@@ -2945,7 +2945,7 @@ html.no-csstransitions .home-content__main {
   line-height: 54px;
   text-align: center;
   border-radius: 50%;
-  background-color: #f62040;
+  background-color: #4F000B;
   box-shadow: 0 0 0 15px #ffffff;
   z-index: 500;
   position: absolute;
@@ -3172,7 +3172,7 @@ html.no-csstransitions .home-content__main {
 article.chem {
   font-family: "Chivo", sans-serif;
     font-weight: 900;
-    border: 3px solid #f62040;
+    border: 3px solid #4F000B;
     display: inline-block;
     font-size: 30px;
     padding: 2px 4px 2px 4px;
@@ -3193,7 +3193,7 @@ article.chem {
 }
 
 .item-feature__icon {
-  color: #f62040;
+  color: #4F000B;
   font-size: 4.8rem;
 }
 
@@ -3503,7 +3503,7 @@ article.chem {
   font-size: 1.2rem;
   font-weight: 900;
   display: inline-block;
-  color: #f62040;
+  color: #4F000B;
   margin-right: 18px;
 }
 
@@ -3516,7 +3516,7 @@ article.chem {
 }
 
 .item-plan--popular .item-plan__block {
-  background-color: #f62040;
+  background-color: #4F000B;
   border: none;
 }
 
@@ -3612,7 +3612,7 @@ article.chem {
  * ------------------------------------------------------------------- */
 .s-download {
   padding-top: 18.4rem;
-  background-color: #f62040;
+  background-color: #4F000B;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
   position: relative;
@@ -3737,11 +3737,11 @@ article.chem {
 .s-footer a:hover,
 .s-footer a:focus,
 .s-footer a:active {
-  color: #f62040;
+  color: #4F000B;
 }
 
 .s-footer .display-1 {
-  color: #f62040;
+  color: #4F000B;
 }
 
 .s-footer h4 {
@@ -3756,7 +3756,7 @@ article.chem {
 
 .s-footer .footer__mail-link {
   font-weight: 800;
-  color: #f62040;
+  color: #4F000B;
 }
 
 .s-footer .footer__mail-link:hover,
@@ -3848,8 +3848,8 @@ article.chem {
 
 .footer__subscribe #mc-form input[type=submit] {
   color: #ffffff;
-  background: #f62040;
-  border-color: #f62040;
+  background: #4F000B;
+  border-color: #4F000B;
   margin-right: 0;
   padding: 0 20px 0 24px;
   height: 6.8rem;
@@ -3901,7 +3901,7 @@ article.chem {
 .footer__social li a:hover,
 .footer__social li a:focus,
 .footer__social li a:active {
-  background-color: #f62040;
+  background-color: #4F000B;
   color: #ffffff;
 }
 
@@ -3935,7 +3935,7 @@ article.chem {
 .footer__site-links li a:hover,
 .footer__site-links li a:focus,
 .footer__site-links li a:active {
-  color: #f62040;
+  color: #4F000B;
 }
 
 
