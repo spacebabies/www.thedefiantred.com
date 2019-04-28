@@ -2678,7 +2678,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .about-desc__slider .slick-dots li button {
-  background: #433a6e;
+  background: #720026;
 }
 
 .about-desc__slider .slick-dots li.slick-active button,
@@ -3537,8 +3537,8 @@ article.chem {
 
 .item-plan--popular .btn:hover,
 .item-plan--popular .btn:focus {
-  background-color: #433a6e;
-  border: 0.2rem solid #433a6e;
+  background-color: #720026;
+  border: 0.2rem solid #720026;
   color: #ffffff;
 }
 
